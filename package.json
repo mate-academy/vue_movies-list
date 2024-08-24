@@ -1,7 +1,7 @@
 {
-  "name": "vue_movies-list-js",
-  "base": "/vue_movies-list-js/",
-  "homepage": "vue_movies-list-js",
+  "name": "vue_movies-list",
+  "base": "/vue_movies-list/",
+  "homepage": "vue_movies-list",
   "version": "0.1.0",
   "keywords": [],
   "author": "Mate Academy",
