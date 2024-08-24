@@ -1,5 +1,7 @@
 # Movies List
 
+> Here is the [working version](https://mate-academy.github.io/vue_movies-list/)
+
 You are given `src/data/movies.json` and initial markup in the `src/App.vue`. Your task is to:
 
 1. Render one `.card` per movie using `v-for`.
