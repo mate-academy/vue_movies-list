@@ -7,11 +7,11 @@
   <div class="page">
     <div class="page-content">
       <div class="movies">
-        <div class="card" data-cy="Movie">
+        <div class="card" data-cy="movie">
           <div class="card-image">
             <figure class="image is-4by3">
               <img
-                data-cy="MovieImage"
+                data-cy="movie__image"
                 src="https://m.media-amazon.com/images/M/MV5BMTY4NjQ5NDc0Nl5BMl5BanBnXkFtZTYwNjk5NDM3._V1_.jpg"
                 alt="Film logo"
               />
@@ -27,12 +27,12 @@
               </div>
 
               <div class="media-content">
-                <p class="title is-8" data-cy="MovieTitle">Love Actually</p>
+                <p class="title is-8" data-cy="movie__title">Love Actually</p>
               </div>
             </div>
 
             <div class="content">
-              <p data-cy="MovieDescription">
+              <p data-cy="movie__description">
                 A thief who steals corporate secrets through the use of
                 dream-sharing technology is given the inverse task of planting
                 an idea into the mind of a C.E.O.
@@ -40,7 +40,7 @@
 
               <a
                 href="https://www.imdb.com/title/tt0314331"
-                data-cy="MovieLink"
+                data-cy="movie__link"
               >
                 IMDB
               </a>
@@ -48,11 +48,11 @@
           </div>
         </div>
 
-        <div class="card" data-cy="Movie">
+        <div class="card" data-cy="movie">
           <div class="card-image">
             <figure class="image is-4by3">
               <img
-                data-cy="MovieImage"
+                data-cy="movie__image"
                 src="https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SX300.jpg"
                 alt="Film logo"
               />
@@ -68,12 +68,12 @@
               </div>
 
               <div class="media-content">
-                <p class="title is-8" data-cy="MovieTitle">Inception</p>
+                <p class="title is-8" data-cy="movie__title">Inception</p>
               </div>
             </div>
 
             <div class="content">
-              <p data-cy="MovieDescription">
+              <p data-cy="movie__description">
                 Follows the lives of eight very different couples in dealing
                 with their love lives in various loosely interrelated tales all
                 set during a frantic month before Christmas in London, England.
@@ -81,7 +81,7 @@
 
               <a
                 href="https://www.imdb.com/title/tt1375666"
-                data-cy="MovieLink"
+                data-cy="movie__link"
               >
                 IMDB
               </a>
@@ -91,6 +91,6 @@
       </div>
     </div>
 
-    <div class="sidebar" data-cy="Sidebar">Sidebar will be here</div>
+    <div class="sidebar" data-cy="sidebar">Sidebar will be here</div>
   </div>
 </template>
